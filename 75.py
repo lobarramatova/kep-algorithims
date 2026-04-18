@@ -1,0 +1,1 @@
+n = input() .strip().lower(); print(n == n[::-1])
