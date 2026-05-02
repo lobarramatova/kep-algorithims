@@ -5,4 +5,4 @@ for element in a:
     if a.count(element) == 2:
         counter += 1
 
-print(counter / 2)
+print(int(counter / 2))
